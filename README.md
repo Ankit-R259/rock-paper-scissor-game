@@ -1,0 +1,1 @@
+The Rock Paper Scissors Game is a web-based project developed using HTML, CSS, and JavaScript. It allows users to play against the computer by choosing rock, paper, or scissors. JavaScript generates random choices, determines the winner, and displays results instantly. The project improves programming logic and web development skills.
